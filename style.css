@@ -1,0 +1,58 @@
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    text-align: center !important;
+
+}
+
+p {
+    color: white;
+    text-align: center !important;
+    
+}
+
+.buttons {
+    background-color: white;
+    color: black;
+    border: 1px dotted white;
+}
+
+
+#bhminst1 {
+    text-align: left;
+}
+
+
+
+p .copyright {
+    text-align: center;
+}
+
+.port_int {
+    text-align: center;
+}
+
+.social_medias {
+    position: absolute;
+    right: 0%;
+}
+
+h2 {
+    color: white;
+}
+
+.NSFW_Warning {
+    color: red;
+    font-weight: bold;
+
+}
